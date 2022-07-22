@@ -15,3 +15,5 @@ URL_BASE = "https://openapi.koreainvestment.com:9443"
 
 #디스코드 웹훅 URL
 DISCORD_WEBHOOK_URL=os.getenv("DISCORD_WEBHOOK_URL")
+
+#TODO: '모의투자' 세팅 추가하자.
